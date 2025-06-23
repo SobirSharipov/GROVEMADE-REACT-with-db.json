@@ -1,0 +1,26 @@
+.bgimg{
+    background-image: url(./assets/img1.png);
+    color: white;
+    padding-top: 200px;
+}
+.bgimg1{
+    background-image: url(./assets/inn.png)
+}
+.box {
+ 
+  width: 80%;
+  display: flex;
+  gap: 30px;
+  margin: auto;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+}
+.box {
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+    
+}
+
+.box::-webkit-scrollbar {
+    display: none; 
+}

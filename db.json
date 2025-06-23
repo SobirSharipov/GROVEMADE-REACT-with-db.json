@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "name": "Walnut MagSafe Stand",
+      "prase": "120",
+      "img": "src/assets/img1 (30).png",
+      "status": false,
+      "id": "1"
+    },
+    {
+      "name": "Walnut Laptop Riser",
+      "prase": "150",
+      "img": "src/assets/img1 (31).png",
+      "status": false,
+      "id": "2"
+    },
+    {
+      "name": "Walnut iPad Stand",
+      "prase": "90",
+      "img": "src/assets/img1 (32).png",
+      "status": false,
+      "id": "3"
+    },
+    {
+      "name": "Walnut Monitor Stand",
+      "prase": "100",
+      "img": "src/assets/img1 (29).png",
+      "status": false,
+      "id": "4"
+    },
+    {
+      "name": "Walnut MagSafe Stand",
+      "prase": "120",
+      "img": "src/assets/img1 (30).png",
+      "status": true,
+      "id": "5"
+    },
+    {
+      "name": "Walnut Laptop Riser",
+      "prase": "150",
+      "img": "src/assets/img1 (31).png",
+      "status": false,
+      "id": "6"
+    },
+    {
+      "name": "Walnut iPad Stand",
+      "prase": "80",
+      "img": "src/assets/img1 (32).png",
+      "status": true,
+      "id": "7"
+    },
+    {
+      "name": "Walnut Monitor Stand",
+      "prase": "100",
+      "img": "src/assets/img1 (29).png",
+      "status": false,
+      "id": "8"
+    },
+    {
+      "name": "Walnut Laptop Riser",
+      "prase": "100",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbMJc9CuTAI_0FixRg8IYLE4hVK-IvFQdbFlyOG-SP7853gs-OqMNmT6SedWpbT2W6NtI&usqp=CAU",
+      "status": false,
+      "id": "7191"
+    }
+  ]
+}
