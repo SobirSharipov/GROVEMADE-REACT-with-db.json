@@ -241,7 +241,7 @@ function App() {
           <a href="">Explore</a>
         </div>
         <div>
-          <img src={img} alt="" />
+          <img src={img} alt="" className='w-[200px] h-[250px]' />
         </div>
         <div className='hidden lg:block'>
           <a href="">My Cart</a>
