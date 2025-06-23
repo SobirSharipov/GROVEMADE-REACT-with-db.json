@@ -224,7 +224,7 @@ function App() {
       >
        <div className='flex gap-[30px] items-center'>
         <div>
-          <img src={Infoimg} alt="" />
+          <img src={Infoimg} alt=""  className='w-[200px] h-[250px]'/>
         </div>
         <div>
           <h1 className='font-extrabold text-3xl'>{Infoname}</h1>
@@ -241,7 +241,7 @@ function App() {
           <a href="">Explore</a>
         </div>
         <div>
-          <img src={img} alt="" className='w-[200px] h-[250px]' />
+          <img src={img} alt=""  />
         </div>
         <div className='hidden lg:block'>
           <a href="">My Cart</a>
